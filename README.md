@@ -4,6 +4,8 @@ A classic Atari Breakout clone written in pure x86 16-bit assembly for DOS, usin
 
 ![Game Screenshot](https://img.shields.io/badge/Platform-DOS-blue) ![Assembly](https://img.shields.io/badge/Language-x86%20Assembly-orange) ![BIOS](https://img.shields.io/badge/Graphics-BIOS%20Only-green)
 
+<img width="1235" height="813" alt="image" src="https://github.com/user-attachments/assets/73ba3eb0-ad5b-4076-a4c5-d33bd6dd2afd" />
+
 ## 🎮 Features
 
 - **Progressive Difficulty**: Start with 2 rows of bricks, advance through 5 levels with increasing brick counts
